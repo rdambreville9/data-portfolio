@@ -12,3 +12,7 @@ Bienvenue dans mon portfolio de projets en Data Science. Issu d'un parcours en m
 ### 1. Analyse nutritionnelle Starbucks (Python)
 * **Description :** Nettoyage et structuration d'un dataset de boissons, traitement des données manquantes et normalisation des variables numériques. Création d'un indicateur de score calorique pour segmenter l'offre produit.
 * **Outils :** Python, NumPy.
+
+### 1. Analyse du catalogue Netflix (Python)
+* **Description :** Exploration d'un dataset de +8 000 titres. Nettoyage de données (valeurs manquantes, doublons) et restructuration de colonnes multi-valeurs. Fusion de données pour extraire des statistiques ciblées sur les acteurs et les pays de production.
+* **Outils :** Python, Pandas.
