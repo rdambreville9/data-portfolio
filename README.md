@@ -3,7 +3,7 @@
 Bienvenue dans mon portfolio de projets en Data Science. Issu d'un parcours en mathématiques (CPGE MPSI/MP & Licence), je compte m'orienter vers des études en mathématiques appliquées et/ou data science.
 
 ## 🛠 Compétences Techniques
-* **Langages :** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+* **Langages :** Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), SQL
 * **Outils :** Excel, Power BI
 * **Soft Skills :** Résolution de problèmes complexes, pédagogie...
 
