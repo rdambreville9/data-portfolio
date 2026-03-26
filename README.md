@@ -20,4 +20,3 @@ Bienvenue dans mon portfolio de projets en Data Science. Issu d'un parcours en m
 ### 2. Visualisation intéractive du catalogue Netflix (Python)
 * **Description :** Création d'un dashboard visuel pour interpréter les tendances de Netflix. Ce projet se concentre sur la communication de données (Data Storytelling) et l'interactivité.
 * **Outils :** Python, Pandas, Plotly Express.
-* **Rendu :** 
