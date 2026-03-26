@@ -17,6 +17,6 @@ Bienvenue dans mon portfolio de projets en Data Science. Issu d'un parcours en m
 * **Description :** Exploration d'un dataset de +8 000 titres. Nettoyage de données (valeurs manquantes, doublons) et restructuration de colonnes multi-valeurs. Fusion de données pour extraire des statistiques ciblées sur les acteurs et les pays de production.
 * **Outils :** Python, Pandas.
 
-### 2. Visualisation intéractive du catalogue Netflix (Python)
+### 3. Visualisation intéractive du catalogue Netflix (Python)
 * **Description :** Création d'un dashboard visuel pour interpréter les tendances de Netflix. Ce projet se concentre sur la communication de données (Data Storytelling) et l'interactivité.
 * **Outils :** Python, Pandas, Plotly Express.
